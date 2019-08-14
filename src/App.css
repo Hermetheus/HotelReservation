@@ -252,10 +252,12 @@ h6 {
 }
 .services h6 {
   letter-spacing: var(--mainSpacing);
+  text-transform: uppercase;
 }
 .services p {
   width: 80%;
   margin: 0 auto;
+  text-transform: uppercase;
 }
 @media screen and (min-width: 992px) {
   .services-center {
